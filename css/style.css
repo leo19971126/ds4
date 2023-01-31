@@ -1,0 +1,35 @@
+body{
+    color: blue;
+}
+
+h1{
+    color: black;
+}
+
+/* p{
+
+}
+
+h2{
+
+} */
+
+img{
+    /* image at the center */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    padding: 20px;
+    /* margin: 5px 10px 20px 15px; */
+    border: double rgb(179, 21, 21) 10px;
+    max-height: 500px;
+}
+
+li{
+    display: inline-block
+}
+
+dt{
+    font-size: 36px;
+}
